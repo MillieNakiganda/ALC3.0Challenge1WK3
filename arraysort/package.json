@@ -1,0 +1,9 @@
+{
+  "name": "arraysort",
+  "version": "1.0.0",
+  "main": "arraysort.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  }
+}
