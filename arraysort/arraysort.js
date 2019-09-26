@@ -51,7 +51,7 @@ function arraySort(anArray)
 }
 
 
-
+console.log(arraySort([2,0,6,5,1,7,'z','a']));
 
 
 
