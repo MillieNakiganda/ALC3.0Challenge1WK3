@@ -25,7 +25,7 @@ function missingnumber(anArray)
 
         return missingnumbers;
 }
-
+console.log(missingnumber([ 1, 2, 3, 5, 6, 7,9]));
 module.exports = missingnumber;
 
     
